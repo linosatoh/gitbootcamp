@@ -1,2 +1,3 @@
-gitbootcamp
+GitBootCamp
 ===========
+ようこそGit Boot Campのリポジトリへ。
