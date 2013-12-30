@@ -4,4 +4,4 @@ GitBootCamp
 
 linogitユーザでコミット
 
-フェッチ用
+競合
