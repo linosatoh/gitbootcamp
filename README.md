@@ -2,4 +2,4 @@ GitBootCamp
 ===========
 ようこそGit Boot Campのリポジトリへ。
 
-クリアされる
+rebaseで文字化けした…。
