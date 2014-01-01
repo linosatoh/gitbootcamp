@@ -2,4 +2,4 @@ GitBootCamp
 ===========
 ようこそGit Boot Campのリポジトリへ。
 
-push
+ブランチの競合
