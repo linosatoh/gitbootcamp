@@ -1,7 +1,6 @@
 GitBootCamp
 ===========
-ようこそGit Boot Campのリポジトリへ。
 
-文字化けじゃなかった。チェックアウトだよ。
+ようこそGit Boot Campのリポジトリへ
 
-基本的にはFFマージ
+branch change.
