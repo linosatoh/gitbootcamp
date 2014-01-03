@@ -1,5 +1,3 @@
 GitBootCamp
 ===========
-ようこそGit Boot Campのリポジトリへ。
-
-master chenge.
+ようこそGit Boot Campのリポジトリへ
