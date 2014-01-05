@@ -1,6 +1,6 @@
 GitBootCamp
 ===========
 
-ようこそGit Boot Campのリポジトリへ
+ようこそGit Boot Campのリポジトリへ!
 
-branch change.
+branch change.....
