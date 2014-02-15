@@ -1,2 +1,2 @@
-after fetch.プルのテスト
+git log.
 auto fetch.
