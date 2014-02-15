@@ -1,2 +1,2 @@
 after fetch.
-auto fetch.
+auto fetch.行がかぶらない
