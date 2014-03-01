@@ -1,6 +1,6 @@
 GitBootCamp
 ===========
 
-‚æ‚¤‚±‚»Git Boot Camp‚ÌƒŠƒ|ƒWƒgƒŠ‚Ö!
+Welcme to Git Boot Camp Repository!
 
 branch change.....
