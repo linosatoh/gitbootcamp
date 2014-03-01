@@ -1,2 +1,1 @@
-after fetch.プルのテスト
-auto fetch.
+競合させる
